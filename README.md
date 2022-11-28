@@ -9,9 +9,7 @@ A lightweight and installation-free tool that you can create yourself and that d
 
 This is a pure frontend web application.
 
-Open index.html with a browser to see it in action
-
-There is also a live fiddle [here](https://jsfiddle.net/wuzhong/y7okLgds/)
+Open index.html with a browser to see it in action.
 
 ## How to use it
 
